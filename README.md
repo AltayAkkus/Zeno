@@ -1,6 +1,7 @@
 # Zeno
 State-of-the-art web crawler 🔱
 
+Fork of (internetarchive/zeno)[https://github.com/internetarchive/zeno] (see (why)[https://github.com/internetarchive/Zeno/pull/628])
 ## Introduction
 
 Zeno is a web crawler designed to operate wide crawls or to simply archive one web page.
@@ -42,7 +43,7 @@ Zeno is highly configurable with many parameters that can be customized. To see 
 
 Contributions are welcome! Please feel free to submit a Pull Request & open issues!
 
-Zeno is being developed and maintained by the [Internet Archive](https://archive.org) and awesome contributors. The project has evolved into what it is today thanks to the invaluable contributions from the community. While we can't list everyone, special thanks to:
+The project has evolved into what it is today thanks to the invaluable contributions from the community. While we can't list everyone, special thanks to:
 
 - [Corentin Barreau](https://github.com/CorentinB) former Wayback Machine Software Engineer at the [Internet Archive](https://archive.org) for his initial work on the project.
 - [Jake LaFountain](https://github.com/NGTmeaty), Wayback Machine Software Engineer at the [Internet Archive](https://archive.org).
