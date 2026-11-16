@@ -1,7 +1,7 @@
 # Zeno
 State-of-the-art web crawler 🔱
 
-Fork of (internetarchive/zeno)[https://github.com/internetarchive/zeno] (see (why)[https://github.com/internetarchive/Zeno/pull/628])
+Fork of [internetarchive/zeno](https://github.com/internetarchive/zeno) (see [why](https://github.com/internetarchive/Zeno/pull/628))
 ## Introduction
 
 Zeno is a web crawler designed to operate wide crawls or to simply archive one web page.
